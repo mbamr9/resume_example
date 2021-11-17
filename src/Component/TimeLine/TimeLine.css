@@ -1,0 +1,51 @@
+.timeline{
+    padding: 0 !important;
+
+}
+
+
+.timeline .timeline_first_item{
+    min-height: 90px !important;
+    margin-left: -13px;
+}
+
+.timeline .MuiTimelineItem-root{
+    min-height: 0px;
+  
+}
+.timeline .css-ha3bif-MuiTimelineItem-root:before{
+    display: none !important ;
+
+}
+.timeline .timeline_dot_header{
+    color: black;
+    background-color: var(--main-color) ;
+    font-size: small;
+    padding: 10px;
+    margin-left: -3px;
+}
+
+.timeline .timeline_dot {
+    margin-left: 0 !important;
+    border-color: var(--main-color)  !important;
+    padding: 4px !important;
+
+}
+.timeline .css-1ami7lv-MuiTimelineConnector-root{
+    background-color: #eee !important;
+
+}
+
+.timeline .timeline_dot_header .css-i4bv87-MuiSvgIcon-root{
+    font-size: 20px;
+    color:darkslategray ;
+    }
+
+
+.timeline .timeline_content{
+    padding-top: 7px !important;
+    margin-bottom: 20px;
+}
+.timeline_header{
+    margin-top: 12px !important;
+}

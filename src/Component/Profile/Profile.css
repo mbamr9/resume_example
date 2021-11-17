@@ -1,0 +1,68 @@
+.profile{
+background-color: #fff;
+border-radius: 6px ;
+width: 100%;
+display: inline-block;
+}
+.profile_information{
+  margin: -40px 23px 30px;
+}
+
+.css-1fe7e6p-MuiTimelineSeparator-root{
+  margin-left: 9px;
+ }
+
+.profile_image{
+  clip-path: polygon(0 13%, 100% 1%, 100% 91%, 0 99%);
+   
+}
+.profile_image img{
+    width: 100%;
+
+}
+
+.profile_name{
+  margin-bottom: -32px;
+line-height: 10px !important;
+    padding: 15px;
+}
+
+.profile_name .name{
+  text-transform: uppercase;
+  font-size: 17px;
+  font-weight: bold ;
+}
+.profile_name .title{
+ font-size: 13px;
+ color: #3b3a3a;
+
+}
+.timelineItem_text{
+  font-size: 13.5px !important;
+  color:#787878 !important;
+  font-weight: 400 !important;
+  text-decoration: none !important;
+}
+
+.timelineItem_text a{
+  font-size: 13.5px !important;
+  color:#787878 !important;
+  font-weight: 400 !important;
+  text-decoration: none !important;
+}
+.timelineItem_text span{
+  font-size: 17px;
+  color:#161515;
+  font-weight: bold;
+}
+
+.profile .button_container{
+  width: 100% !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -40px !important;
+
+}
+
+
